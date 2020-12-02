@@ -1,3 +1,11 @@
+---
+layout: post
+title: Error on firebase upgrade to 10 with cheking duplicate class.
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+---
+
 1. 현상 파이어 베이스 10버전 업그레이드 이후, 얼굴 인식관련 클래스에서 중복 클래스에러가 빌드시에 발생.
 Task :app:checkReleaseDuplicateClasses FAILED
 
